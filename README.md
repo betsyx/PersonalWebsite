@@ -2,13 +2,13 @@
 My personal website, welcome to visit
 
 ## 网站预览
-![网站预览](//cdn.jsdelivr.net/gh/betsyx/PersonalWebsite/img/icefire.png)
+![网站预览](https://noheart.cn/betsy/icefire.png)
 
 ## 网站预览
-![网站预览](//cdn.jsdelivr.net/gh/betsyx/PersonalWebsite/img/sun.png)
+![网站预览](https://noheart.cn/betsy/sun.png)
 
 ## 网站预览
-![网站预览](//cdn.jsdelivr.net/gh/betsyx/PersonalWebsite/img/home.png)
+![网站预览](https://noheart.cn/betsy/home.png)
 
 ## 点击访问我的个人站点
-[预览地址](https://noheart.cn)
+移步此处：[https://noheart.cn](https://noheart.cn)
